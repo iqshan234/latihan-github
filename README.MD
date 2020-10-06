@@ -1,1 +1,2 @@
-REPO INI DIHGUNAKAN UNTUK LATIHAN GITHUB
+REPO INI DIHGUNAKAN UNTUK BHELAJAR GITHUB, YANG DI ANATARANYA ADALAH SEBAGAI BERIKUT:
+1.Melakukan comit terhadap sebuah perubahan file atau pembuatan file pertama kali
